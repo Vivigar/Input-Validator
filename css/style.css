@@ -1,0 +1,54 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    background: url(https://www.yenrac.net/js-exercises/form-validator/media/images/background.png);
+} 
+
+
+
+.container-password {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    padding: 1em;
+    background: #1d1c1c;
+}
+
+.container-password h1 {
+    margin: 0;
+    margin-bottom: 0.25em;
+    font-size: 7em;
+}
+
+.container-password input {
+    margin-bottom: 1em;
+    font-size: 2em;
+    text-align: center;
+    background: black;
+    border: none;
+    outline: none;
+    color: white;
+}
+
+.container-password label {
+    font-size: 1.5em;
+}
+
+.container-password button {
+    margin-top: 1em;
+    text-transform: uppercase;
+    font-family: 'Fjalla One', sans-serif;
+    background: none;
+    border: none;
+    color: white;
+    outline: none;
+    font-size: 2.5em;
+    background: orange;
+    padding: 0 0.5em;
+    border-radius: 10px;
+;
+}
