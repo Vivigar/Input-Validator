@@ -1,4 +1,4 @@
-# JS-Input Validator
+Input Validator
 
 Goal: Allow users to input data into a text field and prevent submitting the form if the input field contains banned characters.
 
