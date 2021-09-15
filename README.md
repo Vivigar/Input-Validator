@@ -9,3 +9,5 @@ Steps:
 4. Compare the input value to valid input characters to check for banned characters
 5. If input contains banned characters, set the submit button to disabled and display a message that indicates the problem.
 6. If the input does not contain banned characters, enable the submit button.
+
+https://jordankcarney.me/demo/input/
